@@ -1,0 +1,42 @@
+{
+  "identifier": "podpage",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {
+    "_askToBuyEnabled": false
+  },
+  "subscriptionGroups": [
+    {
+      "id": "21500000",
+      "localizations": [],
+      "name": "Podpage - Podcast Log Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "1.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "podpage_pro_monthly",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Series stats, listening streaks, export",
+              "displayName": "Podpage - Podcast Log Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "podpage_pro_monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Podpage - Podcast Log Pro Monthly",
+          "subscriptionGroupID": "21500000",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
